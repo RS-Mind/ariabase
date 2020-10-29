@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[
+		"xxx",
+		"xxx",
+		"xxx"
+	],
+	"key":
+	{
+		"x":
+		{
+			"item": "ariabase:death_manasteel_ingot"
+		}
+	},
+	"result":
+	{
+		"item": "ariabase:death_manasteel_block",
+		"count": 1
+	}
+}

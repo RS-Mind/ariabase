@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all":"ariabase:block/void_infused_glass"
+	}
+}

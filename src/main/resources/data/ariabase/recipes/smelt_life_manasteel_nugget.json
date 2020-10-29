@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "ariabase:life_manasteel_ore"
+	},
+	"result":
+	{
+		"item": "ariabase:life_manasteel_nugget",
+		"count": 3,
+		"experience": 3.0,
+		"cookingtime": 200
+	}
+}

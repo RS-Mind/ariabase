@@ -1,0 +1,8 @@
+{
+	"parent": "ariabase:block/crystal_cluster",
+	"textures": {
+		"0": "ariabase:block/void_crystal_cluster",
+		"1": "block/stone",
+		"particle": "ariabase:block/void_crystal_cluster"
+	}
+}

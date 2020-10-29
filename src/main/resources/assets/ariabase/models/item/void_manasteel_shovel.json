@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "ariabase:item/void_manasteel_shovel"
+	}
+}

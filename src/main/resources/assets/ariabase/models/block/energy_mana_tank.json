@@ -1,0 +1,9 @@
+{
+	"parent": "ariabase:block/mana_tank",
+	"textures": {
+		"0": "ariabase:block/energy_tank_top",
+		"1": "ariabase:block/energy_tank_side",
+		"2": "ariabase:block/energy_mana",
+		"particle": "ariabase:block/energy_tank_side"
+	}
+}

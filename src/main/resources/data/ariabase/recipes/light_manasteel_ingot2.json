@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "ariabase:light_manasteel_block"
+		}
+	],
+	"result":
+	{
+		"item": "ariabase:light_manasteel_ingot",
+		"count": 9
+	}
+}

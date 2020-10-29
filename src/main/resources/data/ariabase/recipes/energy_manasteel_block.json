@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[
+		"xxx",
+		"xxx",
+		"xxx"
+	],
+	"key":
+	{
+		"x":
+		{
+			"item": "ariabase:energy_manasteel_ingot"
+		}
+	},
+	"result":
+	{
+		"item": "ariabase:energy_manasteel_block",
+		"count": 1
+	}
+}

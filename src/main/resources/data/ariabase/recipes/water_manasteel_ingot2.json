@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "ariabase:water_manasteel_block"
+		}
+	],
+	"result":
+	{
+		"item": "ariabase:water_manasteel_ingot",
+		"count": 9
+	}
+}

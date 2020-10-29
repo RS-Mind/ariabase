@@ -1,0 +1,16 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "ariabase:block/iron_mana_pipe",
+		"particle": "ariabase:block/iron_mana_pipe"
+	},
+	"elements": [
+		{
+			"from": [6, 6, 6],
+			"to": [10, 10, 10],
+			"faces": {
+				"south": {"uv": [6, 6, 10, 10], "texture": "#0"}
+			}
+		}
+	]
+}

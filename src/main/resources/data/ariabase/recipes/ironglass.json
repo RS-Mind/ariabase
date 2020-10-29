@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[
+		"ggg",
+		"gig",
+		"ggg"
+	],
+	"key":
+	{
+		"g":
+		{
+			"item": "minecraft:glass"
+		},
+		"i":
+		{
+			"item": "minecraft:iron_ingot"
+		}
+	},
+	"result":
+	{
+		"item": "ariabase:ironglass",
+		"count": 8
+	}
+}

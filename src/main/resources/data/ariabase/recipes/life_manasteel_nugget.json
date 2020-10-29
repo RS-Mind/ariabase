@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "ariabase:life_manasteel_ingot"
+		}
+	],
+	"result":
+	{
+		"item": "ariabase:life_manasteel_nugget",
+		"count": 9
+	}
+}

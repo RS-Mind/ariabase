@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[
+		"xxx",
+		"xxx",
+		"xxx"
+	],
+	"key":
+	{
+		"x":
+		{
+			"item": "ariabase:air_manasteel_nugget"
+		}
+	},
+	"result":
+	{
+		"item": "ariabase:air_manasteel_ingot",
+		"count": 1
+	}
+}

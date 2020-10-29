@@ -1,0 +1,52 @@
+{
+	"multipart": [
+		{
+			"when": {"north": "true"},
+			"apply": {"model": "ariabase:block/iron_mana_pipe_north"}
+		},
+		{
+			"when": {"north": "false"},
+			"apply": {"model": "ariabase:block/iron_mana_pipe_northf"}
+		},
+		{
+			"when": {"south": "true"},
+			"apply": {"model": "ariabase:block/iron_mana_pipe_south"}
+		},
+		{
+			"when": {"south": "false"},
+			"apply": {"model": "ariabase:block/iron_mana_pipe_southf"}
+		},
+		{
+			"when": {"east": "true"},
+			"apply": {"model": "ariabase:block/iron_mana_pipe_east"}
+		},
+		{
+			"when": {"east": "false"},
+			"apply": {"model": "ariabase:block/iron_mana_pipe_eastf"}
+		},
+		{
+			"when": {"west": "true"},
+			"apply": {"model": "ariabase:block/iron_mana_pipe_west"}
+		},
+		{
+			"when": {"west": "false"},
+			"apply": {"model": "ariabase:block/iron_mana_pipe_westf"}
+		},
+		{
+			"when": {"up": "true"},
+			"apply": {"model": "ariabase:block/iron_mana_pipe_up"}
+		},
+		{
+			"when": {"up": "false"},
+			"apply": {"model": "ariabase:block/iron_mana_pipe_upf"}
+		},
+		{
+			"when": {"down": "true"},
+			"apply": {"model": "ariabase:block/iron_mana_pipe_down"}
+		},
+		{
+			"when": {"down": "false"},
+			"apply": {"model": "ariabase:block/iron_mana_pipe_downf"}
+		}
+	]
+}
